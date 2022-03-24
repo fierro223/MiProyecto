@@ -1,0 +1,17 @@
+D:\Visual Studio 2022\Cliente_Banck\MyBanck\bin\Debug\net6.0-windows\MyBanck.exe
+D:\Visual Studio 2022\Cliente_Banck\MyBanck\bin\Debug\net6.0-windows\MyBanck.deps.json
+D:\Visual Studio 2022\Cliente_Banck\MyBanck\bin\Debug\net6.0-windows\MyBanck.runtimeconfig.json
+D:\Visual Studio 2022\Cliente_Banck\MyBanck\bin\Debug\net6.0-windows\MyBanck.dll
+D:\Visual Studio 2022\Cliente_Banck\MyBanck\bin\Debug\net6.0-windows\MyBanck.pdb
+D:\Visual Studio 2022\Cliente_Banck\MyBanck\obj\Debug\net6.0-windows\MyBanck.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\Cliente_Banck\MyBanck\obj\Debug\net6.0-windows\MyBanck.FrmMain.resources
+D:\Visual Studio 2022\Cliente_Banck\MyBanck\obj\Debug\net6.0-windows\MyBanck.csproj.GenerateResource.cache
+D:\Visual Studio 2022\Cliente_Banck\MyBanck\obj\Debug\net6.0-windows\MyBanck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2022\Cliente_Banck\MyBanck\obj\Debug\net6.0-windows\MyBanck.AssemblyInfoInputs.cache
+D:\Visual Studio 2022\Cliente_Banck\MyBanck\obj\Debug\net6.0-windows\MyBanck.AssemblyInfo.cs
+D:\Visual Studio 2022\Cliente_Banck\MyBanck\obj\Debug\net6.0-windows\MyBanck.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\Cliente_Banck\MyBanck\obj\Debug\net6.0-windows\MyBanck.dll
+D:\Visual Studio 2022\Cliente_Banck\MyBanck\obj\Debug\net6.0-windows\refint\MyBanck.dll
+D:\Visual Studio 2022\Cliente_Banck\MyBanck\obj\Debug\net6.0-windows\MyBanck.pdb
+D:\Visual Studio 2022\Cliente_Banck\MyBanck\obj\Debug\net6.0-windows\MyBanck.genruntimeconfig.cache
+D:\Visual Studio 2022\Cliente_Banck\MyBanck\obj\Debug\net6.0-windows\ref\MyBanck.dll

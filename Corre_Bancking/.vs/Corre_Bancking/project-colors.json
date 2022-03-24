@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ba01b176-a6f0-4cae-bc65-76caaa72abe5": {
+      "ProjectGuid": "ba01b176-a6f0-4cae-bc65-76caaa72abe5",
+      "DisplayName": "MyBanck",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
