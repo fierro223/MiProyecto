@@ -10,6 +10,12 @@ using System.Windows.Forms;
 
 namespace MyBanck
 {
+    
+    //public class FrmMenuPrincipal
+    //{
+    //    InitializeComponent();
+
+    //}
     public partial class FrmMenuPrincipal : Form
     {
         public FrmMenuPrincipal(string userLogin)
